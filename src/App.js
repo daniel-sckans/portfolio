@@ -36,7 +36,7 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-          <AppRoute basename={process.env.PUBLIC_URL} path="/" component={Home} layout={LayoutDefault} />
+          <AppRoute exact path="/portfolio" component={Home} layout={LayoutDefault} />
         </Switch>
       )} />
   );
