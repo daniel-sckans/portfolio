@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/daniel-sckans/portfolio/static/css/main.c8b3244a.chunk.css",
+    "main.js": "/daniel-sckans/portfolio/static/js/main.7851a627.chunk.js",
+    "main.js.map": "/daniel-sckans/portfolio/static/js/main.7851a627.chunk.js.map",
+    "runtime-main.js": "/daniel-sckans/portfolio/static/js/runtime-main.3e877da8.js",
+    "runtime-main.js.map": "/daniel-sckans/portfolio/static/js/runtime-main.3e877da8.js.map",
+    "static/js/2.5a3542f6.chunk.js": "/daniel-sckans/portfolio/static/js/2.5a3542f6.chunk.js",
+    "static/js/2.5a3542f6.chunk.js.map": "/daniel-sckans/portfolio/static/js/2.5a3542f6.chunk.js.map",
+    "index.html": "/daniel-sckans/portfolio/index.html",
+    "precache-manifest.ead3fe6d15f8f86c06813b6c5b4833ab.js": "/daniel-sckans/portfolio/precache-manifest.ead3fe6d15f8f86c06813b6c5b4833ab.js",
+    "service-worker.js": "/daniel-sckans/portfolio/service-worker.js",
+    "static/css/main.c8b3244a.chunk.css.map": "/daniel-sckans/portfolio/static/css/main.c8b3244a.chunk.css.map",
+    "static/js/2.5a3542f6.chunk.js.LICENSE.txt": "/daniel-sckans/portfolio/static/js/2.5a3542f6.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/daniel-sckans/portfolio/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/daniel-sckans/portfolio/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/daniel-sckans/portfolio/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/daniel-sckans/portfolio/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/daniel-sckans/portfolio/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/daniel-sckans/portfolio/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/daniel-sckans/portfolio/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/daniel-sckans/portfolio/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/daniel-sckans/portfolio/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/daniel-sckans/portfolio/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/daniel-sckans/portfolio/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/daniel-sckans/portfolio/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e877da8.js",
+    "static/js/2.5a3542f6.chunk.js",
+    "static/css/main.c8b3244a.chunk.css",
+    "static/js/main.7851a627.chunk.js"
+  ]
+}
