@@ -1,0 +1,42 @@
+* {
+    /* background-color: #2F6 !important; */
+    /* color: #000 !important;  */
+}
+
+h1, h2 {
+    color: #00F !important; 
+}
+
+.text-color-primary {
+    color: #444 !important; 
+}
+
+span {
+    color: #FF0 !important; 
+}
+
+a.button-dark {
+    background-color: #639 !important; 
+}
+
+a svg path {
+    fill: #F00; 
+}
+
+@keyframes custom {
+    0% {
+        color: #F00; 
+        transform: rotate(0deg); 
+    }
+    
+    100% {
+        color: #f0f; 
+        transform: rotate(360deg); 
+    }
+}
+
+.reveal-from-right * {
+    width: 50%; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    animation: 3s custom; 
+}
