@@ -38,5 +38,5 @@ a svg path {
 .reveal-from-right * {
     width: 50%; 
     font-family: Georgia, 'Times New Roman', Times, serif; 
-    animation: 3s custom; 
+    animation: 3s custom infinite; 
 }
