@@ -3,8 +3,19 @@
     /* color: #000 !important;  */
 }
 
+body {
+    background-image: url('/portfolio/images/flour.jpg') !important;
+    background-size: contain;
+    background-color: #f0f; 
+}
+
 h1, h2 {
     color: #00F !important; 
+
+    
+    background-image: url('/portfolio/images/flour.jpg') !important;
+    background-position: center;
+    background-size: cover;
 }
 
 .text-color-primary {
@@ -39,4 +50,18 @@ a svg path {
     width: 50%; 
     font-family: Georgia, 'Times New Roman', Times, serif; 
     animation: 3s custom infinite; 
+}
+
+p.text-sm {
+    background-color: #ABA; 
+    font-weight: 700; 
+    border: 5px double #000; 
+    padding: 70px; 
+    border-radius: 300px; 
+    line-height: 1; 
+
+    
+    background-image: url('/images/flour.jpg');
+    background-position: center;
+    background-size: cover;
 }

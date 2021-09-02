@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fcef8850.chunk.css",
-    "main.js": "/portfolio/static/js/main.29ff4a71.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.29ff4a71.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.e1992851.chunk.css",
+    "main.js": "/portfolio/static/js/main.4e30f567.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4e30f567.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.0a162c52.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.0a162c52.js.map",
     "static/js/2.5a3542f6.chunk.js": "/portfolio/static/js/2.5a3542f6.chunk.js",
     "static/js/2.5a3542f6.chunk.js.map": "/portfolio/static/js/2.5a3542f6.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.10bcab008023913a066310e3bcc43036.js": "/portfolio/precache-manifest.10bcab008023913a066310e3bcc43036.js",
+    "precache-manifest.30a6a77d063f480ca9c9cd1d90c10d68.js": "/portfolio/precache-manifest.30a6a77d063f480ca9c9cd1d90c10d68.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.fcef8850.chunk.css.map": "/portfolio/static/css/main.fcef8850.chunk.css.map",
+    "static/css/main.e1992851.chunk.css.map": "/portfolio/static/css/main.e1992851.chunk.css.map",
     "static/js/2.5a3542f6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5a3542f6.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/portfolio/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/portfolio/static/media/feature-tile-icon-01.5787ef1e.svg",
@@ -18,7 +18,7 @@
     "static/media/feature-tile-icon-03.svg": "/portfolio/static/media/feature-tile-icon-03.66f37ba5.svg",
     "static/media/feature-tile-icon-04.svg": "/portfolio/static/media/feature-tile-icon-04.836acd10.svg",
     "static/media/feature-tile-icon-05.svg": "/portfolio/static/media/feature-tile-icon-05.fa9ba00b.svg",
-    "static/media/features-split-image-01.png": "/portfolio/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-01.png": "/portfolio/static/media/features-split-image-01.b3c5fd8e.png",
     "static/media/features-split-image-02.png": "/portfolio/static/media/features-split-image-02.3c569239.png",
     "static/media/features-split-image-03.png": "/portfolio/static/media/features-split-image-03.87e4d053.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.2810a88b.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.0a162c52.js",
     "static/js/2.5a3542f6.chunk.js",
-    "static/css/main.fcef8850.chunk.css",
-    "static/js/main.29ff4a71.chunk.js"
+    "static/css/main.e1992851.chunk.css",
+    "static/js/main.4e30f567.chunk.js"
   ]
 }
