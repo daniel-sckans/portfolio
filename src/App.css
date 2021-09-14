@@ -18,13 +18,31 @@ h1, h2 {
     background-size: cover;
 }
 
-.text-color-primary {
+.text-color-primar-chicken {
     color: #444 !important; 
 }
 
-span {
-    color: #FF0 !important; 
+.button-dark {
+    color: #444 !important; 
 }
+
+.rectangle {
+    color: #0ff !important; 
+}
+
+.square {
+    display: none !important; 
+}
+
+span {
+    color: #FFF !important; 
+}
+
+.airplane {
+    color: #F0F !important; 
+    FONT-SIZE: 64px; 
+}
+
 
 a.button-dark {
     background-color: #639 !important; 
@@ -65,3 +83,22 @@ p.text-sm {
     background-position: center;
     background-size: cover;
 }
+
+.aardvark {
+    width: 400px; 
+    height: 300px; 
+    background-color: #00F;
+}
+
+.easter-egg-avocado {
+    width: 80rem; 
+    height: 100vh; 
+    
+    color: #0f0; 
+    background-color: #aff;
+}
+
+.inner-avocado {
+    background-color: #000; 
+}
+
