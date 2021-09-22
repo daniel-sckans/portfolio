@@ -1,7 +1,104 @@
-.testing {
-    height: 7rem; 
-    width: 40vw; 
-    
-    font-size: 3rem; 
-    background-color: #f0f3;
+* {
+    /* background-color: #2F6 !important; */
+    /* color: #000 !important;  */
 }
+
+body {
+    background-image: url('/portfolio/images/flour.jpg') !important;
+    background-size: contain;
+    background-color: #f0f; 
+}
+
+h1, h2 {
+    color: #00F !important; 
+
+    
+    background-image: url('/portfolio/images/flour.jpg') !important;
+    background-position: center;
+    background-size: cover;
+}
+
+.text-color-primar-chicken {
+    color: #444 !important; 
+}
+
+.button-dark {
+    color: #444 !important; 
+}
+
+.rectangle {
+    color: #0ff !important; 
+}
+
+.square {
+    display: none !important; 
+}
+
+span {
+    color: #FFF !important; 
+}
+
+.airplane {
+    color: #F0F !important; 
+    FONT-SIZE: 64px; 
+}
+
+
+a.button-dark {
+    background-color: #639 !important; 
+}
+
+a svg path {
+    fill: #F00; 
+}
+
+@keyframes custom {
+    0% {
+        color: #F00; 
+        transform: rotate(0deg); 
+    }
+    
+    100% {
+        color: #f0f; 
+        transform: rotate(360deg); 
+    }
+}
+
+.reveal-from-right * {
+    width: 50%; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    animation: 3s custom infinite; 
+}
+
+p.text-sm {
+    background-color: #ABA; 
+    font-weight: 700; 
+    border: 5px double #000; 
+    padding: 70px; 
+    border-radius: 300px; 
+    line-height: 1; 
+
+    
+    background-image: url('/images/flour.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.aardvark {
+    width: 400px; 
+    height: 300px; 
+    background-color: #00F;
+}
+
+.easter-egg-avocado {
+    width: 80rem; 
+    height: 100vh; 
+    
+    color: #0f0; 
+    background-color: #aff;
+}
+
+.inner-avocado {
+    background-color: #000; 
+}
+
