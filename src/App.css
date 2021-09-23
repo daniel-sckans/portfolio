@@ -91,14 +91,39 @@ p.text-sm {
 }
 
 .easter-egg-avocado {
-    width: 80rem; 
     height: 100vh; 
     
     color: #0f0; 
-    background-color: #aff;
+    background-color: #00f;
+
+    border: 100px solid #fff; 
 }
 
 .inner-avocado {
-    background-color: #000; 
 }
 
+.other-inner-inner-avocado {
+    background-color: #f0f8;
+}
+
+#penguin {
+    background-color: #ff08; 
+}
+
+.img-lion-fish {
+    height: 100px; 
+    width: 100px; 
+
+    background-size: cover; 
+    background-color: #000;
+    background-repeat: no-repeat;
+    background-image: url('/portfolio/images/lionfish.jpeg');
+}
+
+[swordfish="batman"] {
+    background-color: #f00 !important;
+}
+
+e-e {
+    color: #0ff !important;
+}
