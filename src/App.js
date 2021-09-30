@@ -13,6 +13,8 @@ import LayoutDefault from './layouts/LayoutDefault';
 import Home from './views/Home';
 import EasterEgg from './views/EasterEgg';
 import Support from './views/Support'; 
+import AboutUs from './views/AboutUs'; 
+import FAQ from './views/FAQ'; 
 
 // Initialize Google Analytics
 ReactGA.initialize(process.env.REACT_APP_GA_CODE);
@@ -43,6 +45,8 @@ const App = () => {
           <AppRoute exact path="/portfolio" component={Home} layout={LayoutDefault} />
           <AppRoute exact path="/portfolio/easter-egg" component={EasterEgg} />
           <AppRoute exact path="/portfolio/support" component={Support} />
+          <AppRoute exact path="/portfolio/about-us" component={AboutUs} />
+          <AppRoute path="/portfolio/faq" component={FAQ} />
         </Switch>
       )} />
   );

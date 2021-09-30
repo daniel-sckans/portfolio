@@ -127,3 +127,22 @@ p.text-sm {
 e-e {
     color: #0ff !important;
 }
+
+.banner {
+    height: 33.33vh; 
+
+    font-size: 32px;
+    color: #fff; 
+    font-weight: 900; 
+    text-align: center;
+    background-color: #00f;
+
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+.top-nav {
+    display: flex; 
+    justify-content: space-evenly;
+}
