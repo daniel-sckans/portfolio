@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url('/portfolio/images/flour.jpg') !important;
+    /* background-image: url('/portfolio/images/flour.jpg') !important; */
     background-size: contain;
     background-color: #f0f; 
 }

@@ -28,7 +28,7 @@ const FooterNav = ({
           <Link to="#0">FAQ's</Link>
         </li>
         <li>
-          <Link to="#0">Support</Link>
+          <Link to="/portfolio/support">Support</Link>
         </li>
       </ul>
     </nav>
