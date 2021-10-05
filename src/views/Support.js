@@ -12,8 +12,36 @@ const Support = () => {
             <Banner>
                 SUPPORT!
             </Banner>
-
-            Do you have questions about flour or flowers?  Call us!  
+            <div className="main-content">
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+                <div>Welcome!</div>
+            </div>
             <Footer />
         </>
     ); 

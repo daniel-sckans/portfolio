@@ -134,15 +134,38 @@ e-e {
     font-size: 32px;
     color: #fff; 
     font-weight: 900; 
-    text-align: center;
     background-color: #00f;
 
     display: flex; 
+    flex-direction: column;
     justify-content: center;
-    align-items: center;
+
 }
 
 .top-nav {
     display: flex; 
     justify-content: space-evenly;
+}
+
+.main-content {
+    background-color: #0f0; 
+
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content div {
+    flex: 1 1 25%; 
+    height: 4rem; 
+    margin: 1rem 0;
+    
+    background-color: #000;
+    border-radius: 3rem;
+
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
