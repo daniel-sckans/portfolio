@@ -129,12 +129,12 @@ e-e {
 }
 
 .banner {
+    position: relative;
     height: 33.33vh; 
 
     font-size: 32px;
     color: #fff; 
     font-weight: 900; 
-    background-color: #00f;
 
     display: flex; 
     flex-direction: column;
@@ -162,10 +162,32 @@ e-e {
     margin: 1rem 0;
     
     background-color: #000;
+    background-image: url('/portfolio/images/chocoloate-bike-1-0-1440615893.jpg'); 
+    background-size: cover; 
+
+    color: #fff; 
+
     border-radius: 3rem;
 
     display: flex; 
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.main-content div:nth-of-type(7),
+.main-content div:nth-of-type(16) {
+    background-image: url('/portfolio/images/flour.jpg'); 
+}
+
+.cb {
+    position: absolute; 
+    z-index: -1;
+}
+
+.cl {
+    height: 16rem; 
+}
+
+.text-cont {
 }

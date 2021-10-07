@@ -17,7 +17,7 @@ import AboutUs from './views/AboutUs';
 import FAQ from './views/FAQ'; 
 
 // Initialize Google Analytics
-ReactGA.initialize(process.env.REACT_APP_GA_CODE);
+ReactGA.initialize('G-ZP3C59QPZ1');
 
 const trackPage = page => {
   ReactGA.set({ page });

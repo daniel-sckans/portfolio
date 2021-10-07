@@ -42,6 +42,8 @@ const Support = () => {
                 <div>Welcome!</div>
                 <div>Welcome!</div>
             </div>
+            <iframe className="cl" src="https://www.youtube.com/embed/W6jrDPALHYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <input placeholder="Enter your name" />
             <Footer />
         </>
     ); 
