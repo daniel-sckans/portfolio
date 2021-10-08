@@ -17,7 +17,7 @@ import AboutUs from './views/AboutUs';
 import FAQ from './views/FAQ'; 
 
 // Initialize Google Analytics
-ReactGA.initialize('G-ZP3C59QPZ1');
+ReactGA.initialize('UA-209687432-1');
 
 const trackPage = page => {
   ReactGA.set({ page });
